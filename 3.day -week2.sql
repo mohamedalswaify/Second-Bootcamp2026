@@ -1,4 +1,4 @@
- ***********************Session 5**********************************
+ ***********************Session 3**********************************
 -- 📘 SQL Server: Full DQL Course - Beginner to Advanced
 -- 👨‍🏫 Name: Mohamed Alswaify
 -- 📱 Mobile: 0564842804
