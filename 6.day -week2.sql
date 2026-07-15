@@ -151,10 +151,6 @@ Note:
 ------------------------------------------------------------
 
 
-
-
-
-
 create database  SecondDB;
 
 drop database  SecondDB;
@@ -215,6 +211,17 @@ constraint  My_Emps_Emp_Id_pk  primary key(Emp_Id),
 constraint My_Emps_salary_CK  check(salary between   2000  and  8000   )
 
 );
+
+  ALTER TABLE My_Emps
+    DROP COLUMN salary;
+
+
+	  ALTER TABLE My_Emps
+    DROP CONSTRAINT My_Emps_salary_CK;
+
+	 ALTER TABLE My_Emps
+    ADD salary int;
+
 
 insert into my_emps  (Emp_Id,Emp_Name,salary,Dept_Id)
 values(1,'Mohamed Alswaify',2500,1)
@@ -281,7 +288,7 @@ CONSTRAINT Projects_Project_Id_PK PRIMARY KEY (Project_Id),
 --   start_date => date
 --   end_date => greater than start_date
 --   project_id => foreign key
-
+ drop
 create table My_Emps
 (
 Emp_Id int ,
@@ -296,21 +303,16 @@ constraint My_Emps_salary_CK  check(salary between   2000  and  8000   )
 
 );
 
-create table Tasks
-(
-Task_Id int,
-Description varchar(255) not null,
-Start_Date date,
-End_Date date,
-Project_Id int
-constraint Tasks_Project_Id_FK  foreign key references Projects(Project_Id),
-constraint Tasks_Task_Id_PK primary key (Task_Id),
-constraint Tasks_End_Date_CK check (End_Date > Start_Date)
+
+
+CREATE TABLE Tasks (
+    Task_ID INT PRIMARY KEY,
+    Description VARCHAR(255),
+    Start_Date DATE,
+    End_Date DATE,
+    Project_ID INT FOREIGN KEY REFERENCES Projects(Project_ID),
+    CONSTRAINT CK_Tasks_EndDate CHECK (End_Date > Start_Date)
 );
-
-
-
-
 
 
 
