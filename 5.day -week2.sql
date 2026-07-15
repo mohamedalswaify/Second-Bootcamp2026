@@ -184,6 +184,7 @@ from locations
 
 select  * 
 from employees
+------------------------------------
 
 
 --Insert your date in  employee table
