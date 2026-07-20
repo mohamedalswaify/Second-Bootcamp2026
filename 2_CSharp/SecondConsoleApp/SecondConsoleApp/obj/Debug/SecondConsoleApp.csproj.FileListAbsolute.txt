@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\SecondConsoleApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\SecondConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondConsoleApp\bin\Debug\SecondConsoleApp.exe.config
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondConsoleApp\bin\Debug\SecondConsoleApp.exe
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondConsoleApp\bin\Debug\SecondConsoleApp.pdb
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\SecondConsoleApp.exe
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\SecondConsoleApp.pdb
