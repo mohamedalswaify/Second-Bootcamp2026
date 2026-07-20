@@ -16,22 +16,42 @@ namespace SecondConsoleApp.day2
         //    string name = Console.ReadLine();
 
         //    Console.Write("Enter your salary: ");
-        //    double salary = double.Parse(Console.ReadLine()) ;
+        //    double salary = double.Parse(Console.ReadLine());
 
         //    //processing
-        //    double annual =  salary * 12;
+        //    double annual = salary * 12;
 
 
         //    //Output
         //    Console.WriteLine("========================");
 
-        //    Console.WriteLine("Welcome "  +  name);
-        //    Console.WriteLine("Your Salary " +  salary + " SR");
+        //    Console.WriteLine("Welcome " + name);
+        //    Console.WriteLine("Your Salary " + salary + " SR");
         //    Console.WriteLine("Your Annual " + annual + " SR");
 
+        //    if(annual>12000)
+        //    {
+        //        Console.WriteLine("High Salary");
+        //    }
+
+        //    else if(annual >6000)
+        //    {
+        //        Console.WriteLine("Medium Salary");
+        //    }
+
+        //    else if (annual > 3000)
+        //    {
+        //        Console.WriteLine("Low Salary");
+        //    }
+        //    else
+
+        //    {
+        //        Console.WriteLine("Very Low Salary");
+        //    }
+
+           
+
           
-
-
 
 
         //    Console.ReadKey(true);

@@ -40,12 +40,45 @@ namespace SecondConsoleApp.day2
         //    double percentage = mark / fullMark * 100;
 
 
-        //    Console.WriteLine("Student Name:" +name);
+        //    Console.WriteLine("Student Name:" + name);
         //    Console.WriteLine("Student Mark:" + mark);
         //    Console.WriteLine("Student FullMark:" + fullMark);
-        //    Console.WriteLine("Student Percentage:" +percentage + "%");
+        //    Console.WriteLine("Student Percentage:" + percentage + "%");
 
-         
+
+        //    //pct >84   Excellent
+        //    //pct >=50   Pass
+        //    //pvt >74   Very Good
+        //    //pct <50   Fail
+        //    //pct >64   Good
+
+
+        //    if(percentage >84)
+        //    {
+        //        Console.WriteLine("Excellent");
+        //    }
+
+        //    else if(percentage >74)
+        //    {
+        //        Console.WriteLine("Very Good");
+        //    }
+        //    else if (percentage > 64)
+        //    {
+        //        Console.WriteLine("Good");
+        //    }
+
+        //    else if (percentage >= 50)
+        //    {
+        //        Console.WriteLine("Pass");
+        //    }
+
+        //    else 
+        //    {
+        //        Console.WriteLine("Fail");
+        //    }
+
+
+
 
 
 
