@@ -4,28 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SecondConsoleApp.day2
+namespace SecondConsoleApp.day3
 {
-    internal class Compute_BMI
+    internal class Compute_BMI_V2
     {
-
         static void Mainn(string[] args)
         {
-            //Compute_BMI
-
-            //Enter your name: Ahmed
-            //Enter your weight: 70
-            //Enter your height: 175
-
-            //BMI = weight / (height * height) * 10000 
-
-
-            // Your Name: Ahmed
-            // Your Weight: 70 KG
-            // Your Height: 175 CM
-            // Your BMI: 22.86
-
-
+            
+            
             Console.Write("Enter your name: ");
             string name = Console.ReadLine();
 
@@ -45,10 +31,53 @@ namespace SecondConsoleApp.day2
             Console.WriteLine("Your BMI:" + bmi);
 
 
-            //>=30 Obese
-            //>18  <25 Normal  weight
-            //>25 <30 Overweight
+            //>= 30 Obese
+            //>=25  Overweight
+            //>=18 < Normal weight
+            //<=18 Underweight
+
+
+    
             //<18 Underweight
+            //<25 Normal weight
+            //<30 Overweight
+            //>=30 Obese
+
+
+            if (bmi >= 30)
+            {
+                Console.WriteLine("Obese");
+            }
+            else if (bmi >= 25)
+            {
+                Console.WriteLine("Overweight");
+            }
+            else if (bmi >= 18)
+            {
+                Console.WriteLine("Normal weight");
+            }
+            else
+            {
+                Console.WriteLine("Underweight");
+            }
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
             Console.ReadKey(true);
@@ -57,7 +86,6 @@ namespace SecondConsoleApp.day2
 
 
         }
-
 
 
     }

@@ -48,6 +48,11 @@
     <Compile Include="day2\Compute_BMI.cs" />
     <Compile Include="day2\Compute_PCT.cs" />
     <Compile Include="day2\Compute_Salary.cs" />
+    <Compile Include="day3\Calc_v2.cs" />
+    <Compile Include="day3\Check_day.cs" />
+    <Compile Include="day3\Check_day_v2.cs" />
+    <Compile Include="day3\Compute_BMI_V2.cs" />
+    <Compile Include="day3\Login.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

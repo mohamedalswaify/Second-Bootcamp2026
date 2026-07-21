@@ -30,7 +30,7 @@ namespace SecondConsoleApp.day2
         //    //Sub: -5
         //    //Mul: 50
         //    //Div: 0.5
-
+        //Enter Oprater(*,-,+,/):
 
         //    Console.Write("Enter Number1: ");
         //    double number1 = double.Parse(Console.ReadLine());
