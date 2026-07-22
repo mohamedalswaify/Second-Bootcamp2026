@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\day4\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\day4\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\day4\\compute_pct_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\day4\\compute_pct_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\day2\\compute_pct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\day2\\compute_pct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\day4\\quiz_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\day4\\quiz_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\day4\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\day4\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day4\\Arrays.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\day4\\Arrays.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day4\\Arrays.cs*",
+              "RelativeToolTip": "SecondConsoleApp\\day4\\Arrays.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T15:27:10.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compute_PCT_v2.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day4\\Compute_PCT_v2.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\day4\\Compute_PCT_v2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day4\\Compute_PCT_v2.cs",
+              "RelativeToolTip": "SecondConsoleApp\\day4\\Compute_PCT_v2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T15:24:31.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compute_PCT.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day2\\Compute_PCT.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\day2\\Compute_PCT.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day2\\Compute_PCT.cs",
+              "RelativeToolTip": "SecondConsoleApp\\day2\\Compute_PCT.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwFUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T15:13:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quiz_v3.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day4\\Quiz_v3.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\day4\\Quiz_v3.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day4\\Quiz_v3.cs",
+              "RelativeToolTip": "SecondConsoleApp\\day4\\Quiz_v3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T15:10:55.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loops.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day4\\Loops.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\day4\\Loops.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\day4\\Loops.cs",
+              "RelativeToolTip": "SecondConsoleApp\\day4\\Loops.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T14:06:06.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
