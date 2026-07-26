@@ -10,7 +10,7 @@ namespace SecondConsoleApp.day4
     {
 
 
-        static void Main(string[] args)
+        static void Mainn(string[] args)
         {
 
             //int[] numbers = { 10,5,16,20,22};
