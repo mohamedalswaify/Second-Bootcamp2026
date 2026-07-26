@@ -57,10 +57,10 @@
     <Compile Include="Level1\day4\Compute_PCT_v2.cs" />
     <Compile Include="Level1\day4\Loops.cs" />
     <Compile Include="Level1\day4\Quiz_v3.cs" />
-    <Compile Include="Level2\day1\Function_return\Calling_Fuction.cs" />
-    <Compile Include="Level2\day1\Function_return\Functions.cs" />
-    <Compile Include="Level2\day1\Function_Void\Calling.cs" />
-    <Compile Include="Level2\day1\Function_Void\Methods.cs" />
+    <Compile Include="Level2\day1\Function_prams\Calling_Fuction.cs" />
+    <Compile Include="Level2\day1\Function_prams\Functions.cs" />
+    <Compile Include="Level2\day1\Function_No_Prams\Calling.cs" />
+    <Compile Include="Level2\day1\Function_No_Prams\Methods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Level1\day4\Quiz.cs" />
   </ItemGroup>
