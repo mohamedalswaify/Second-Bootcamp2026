@@ -8,7 +8,7 @@ namespace SecondConsoleApp.Level2.day1.Function_return
 {
     internal class Calling_Fuction
     {
-        static void Main()
+        static void Mainn()
         {
             // Create object 
            Functions functions = new Functions();
