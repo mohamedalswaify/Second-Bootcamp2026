@@ -167,7 +167,6 @@ namespace SecondConsoleApp.Level2.day2
         }
         public List<object> Compute_PCT3(string name, double mark, double fullMark)
         {
-
             double percentage = mark / fullMark * 100;
             List<object> data = new List<object>();
             data.Add(name);
@@ -177,6 +176,22 @@ namespace SecondConsoleApp.Level2.day2
             return data;
 
         }
+
+
+        public List<object> Compute_BMI4(string name , double weight, double height)
+        {
+            double bmi = weight / (height * height) * 10000;
+
+            List<object> data = new List<object>();
+            data.Add(name);
+            data.Add(weight);
+            data.Add(height);
+            data.Add(bmi);
+
+            return data;
+
+        }
+
 
     }
 }

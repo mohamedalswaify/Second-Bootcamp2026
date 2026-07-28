@@ -9,7 +9,7 @@ namespace SecondConsoleApp.Level2.day2
     internal class Calling_Fun
     {
 
-       static void Main()
+       static void Mainn()
         {
 
 
@@ -150,23 +150,43 @@ namespace SecondConsoleApp.Level2.day2
 
             //------------------------------------------------------
             //-------------- return list  Compute_PCT---------------------
-            Console.Write("Enter Student Name: ");
-            string name = Console.ReadLine();
+            //Console.Write("Enter Student Name: ");
+            //string name = Console.ReadLine();
 
 
-            Console.Write("Enter Student Mark: ");
-            double mark = double.Parse(Console.ReadLine());
+            //Console.Write("Enter Student Mark: ");
+            //double mark = double.Parse(Console.ReadLine());
 
-            Console.Write("Enter Student FullMark: ");
-            double fullMark = double.Parse(Console.ReadLine());
+            //Console.Write("Enter Student FullMark: ");
+            //double fullMark = double.Parse(Console.ReadLine());
 
-            List<object> data = fun.Compute_PCT3(name, mark, fullMark);
+            //List<object> data = fun.Compute_PCT3(name, mark, fullMark);
 
-            foreach (object obj in data)
-            {
-                Console.WriteLine(obj);
-            }
+            //foreach (object obj in data)
+            //{
+            //    Console.WriteLine(obj);
+            //}
             //------------------------------------------------------
+
+
+
+            //-----------list  Compute BMI3-------------------
+            //Console.Write("Enter your name: ");
+            //string name = Console.ReadLine();
+
+            //Console.Write("Enter your weight: ");
+            //double weight = double.Parse(Console.ReadLine());
+
+            //Console.Write("Enter your height: ");
+            //double height = double.Parse(Console.ReadLine());
+
+            //List<object> data = fun.Compute_BMI4(name, weight, height);
+            //foreach (object obj in data)
+            //{
+            //    Console.WriteLine(obj);
+            //}
+            //-------------------------------------------
+
 
 
 
