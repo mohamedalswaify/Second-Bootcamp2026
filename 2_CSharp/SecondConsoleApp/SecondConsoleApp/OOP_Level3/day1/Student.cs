@@ -9,7 +9,7 @@ namespace SecondConsoleApp.OOP_Level3.day1
     public class Student
     {
         public string Name;
-        public double Mark;
+        private double Mark;
         public int FullMark;
         public Student(string name, double mark, int fullMark)
         {
@@ -17,6 +17,21 @@ namespace SecondConsoleApp.OOP_Level3.day1
             Mark = mark;
             FullMark = fullMark;
         }
+
+        public double Get_Mark() { 
+        
+        return Mark;
+        
+        }
+
+        public void Set_Mark(double mark)
+        {
+
+            Mark = mark;
+
+        }
+
+
         public double Get_PCT()
         {
             double pct = Mark / FullMark * 100;

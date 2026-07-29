@@ -10,14 +10,36 @@ namespace SecondConsoleApp.OOP_Level3.day1
     public class Employee
     {
         public string Name;
-        public double Salary;
+        private double Salary;
 
         public Employee(string name ,double salary)
         {
             Name = name;
-            Salary = salary;
+            Set_Salary(salary);
+
+
+        }
+
+        public double Get_Salary()
+        {
+            return Salary;
+        }
+
+        public void Set_Salary(double salary)
+        {
+            if(salary >=0)
+            {
+                Salary = salary;
+            }
+            else
+            {
+                Console.WriteLine("Invalid Salary");
+            }
+
+
             
         }
+
 
 
         public double Annual_Salary()

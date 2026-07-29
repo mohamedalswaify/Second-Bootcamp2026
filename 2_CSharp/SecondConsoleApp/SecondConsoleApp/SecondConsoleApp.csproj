@@ -69,6 +69,8 @@
     <Compile Include="OOP_Level3\day1\Room.cs" />
     <Compile Include="OOP_Level3\day1\Student.cs" />
     <Compile Include="OOP_Level3\day1\Student_Test.cs" />
+    <Compile Include="OOP_Level3\day2\Patient.cs" />
+    <Compile Include="OOP_Level3\day2\Patient_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Level1\day4\Quiz.cs" />
   </ItemGroup>
