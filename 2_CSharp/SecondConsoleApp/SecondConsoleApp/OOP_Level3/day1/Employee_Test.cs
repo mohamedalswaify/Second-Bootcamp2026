@@ -9,7 +9,7 @@ namespace SecondConsoleApp.OOP_Level3.day1
     internal class Employee_Test
     {
         //Student -- Student_Test
-        static void Main()
+        static void Mainn()
         {
         
 

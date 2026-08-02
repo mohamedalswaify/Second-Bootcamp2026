@@ -8,9 +8,24 @@ namespace SecondConsoleApp.OOP_Level3.day2
 {
     public class Patient
     {
-        public string Name;
-        public double Weight;
-        public double Height;
+        public string Name {  get;  set; }
+
+        private double _weight;
+        public double Weight {
+            get { return _weight; }
+            set
+            {
+                if (value >= 0)
+                {
+                    _weight = value;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid Weight");
+                }
+            } 
+        }
+        public double Height { get; set; }
 
         public Patient(string name, double weight, double height)
         {
@@ -19,10 +34,9 @@ namespace SecondConsoleApp.OOP_Level3.day2
             Height = height;
 
         }
-
         public double Get_BMI()
         {
-            double BMI = Weight / (Height * Height) * 10000;
+            double BMI = _weight / (Height * Height) * 10000;
             return BMI;
         }
 

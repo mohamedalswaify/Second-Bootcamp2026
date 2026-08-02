@@ -11,10 +11,10 @@ namespace SecondConsoleApp.OOP_Level3.day2
 
             static void Mainn()
             {
-                Patient p1 = new Patient("Abdulrhman", 80, 180);
+                Patient p1 = new Patient("Abdulrhman", -80, 180);
 
 
-            p1.Weight = -90;
+           // p1.Weight = -90;
             double bmi = p1.Get_BMI();
                 string status = p1.Get_Status(bmi);
 

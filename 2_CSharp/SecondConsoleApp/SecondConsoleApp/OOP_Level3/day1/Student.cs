@@ -9,32 +9,64 @@ namespace SecondConsoleApp.OOP_Level3.day1
     public class Student
     {
         public string Name;
-        private double Mark;
-        public int FullMark;
+
+        private double _mark;
+        public double Mark { 
+            get 
+            { 
+                return _mark; 
+            }
+            set 
+            {
+                if(value >= 0)
+                {
+                    _mark =value;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid Mark");
+                }
+
+
+            } 
+        
+        }
+
+
+        private int _FullMark;
+
+        public int FullMark {
+            get { return _FullMark; }
+            set
+            {
+                if(value > 0)
+                {
+                    _FullMark = value;
+
+                }
+                else
+                {
+                    Console.WriteLine("Invalid Full Mark");
+
+                }
+
+            }
+        }
+
+
         public Student(string name, double mark, int fullMark)
         {
             Name = name;
             Mark = mark;
-            FullMark = fullMark;
+            FullMark= fullMark;
         }
 
-        public double Get_Mark() { 
-        
-        return Mark;
-        
-        }
-
-        public void Set_Mark(double mark)
-        {
-
-            Mark = mark;
-
-        }
+      
 
 
         public double Get_PCT()
         {
-            double pct = Mark / FullMark * 100;
+            double pct = _mark / _FullMark * 100;
             return pct;
         }
         public string Get_Grade(double percentage)
