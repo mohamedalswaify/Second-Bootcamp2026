@@ -12,10 +12,5 @@ namespace SecondConsoleApp.OOP_Level3.day5
         string DisplayEmployeeDetails();
    
         double CalculateAnnualSalary();
-
-
-
-
-
     }
 }

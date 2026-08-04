@@ -11,6 +11,8 @@ namespace SecondConsoleApp.OOP_Level3.day5
         public string Name { get; set; }
         public double ProjectPrice { get; set; }
 
+   
+
         public double CalculateAnnualSalary()
         {
             return ProjectPrice * 12;

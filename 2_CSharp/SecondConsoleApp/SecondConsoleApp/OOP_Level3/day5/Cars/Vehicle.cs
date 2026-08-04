@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SecondConsoleApp.OOP_Level3.day5.Car
 {
-    public abstract class Vehicle
+    public abstract class Vehicle : IVehicle
     {
 
         public string Brand { get; set; }
@@ -41,6 +41,7 @@ namespace SecondConsoleApp.OOP_Level3.day5.Car
         {
             return $"Brand: {Brand}, Model: {Model}, Price: {Price}";
         }
+
 
         
 

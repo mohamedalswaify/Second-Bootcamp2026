@@ -20,12 +20,13 @@ namespace SecondConsoleApp.OOP_Level3.day5.Car
             //Console.WriteLine($" {m3.DisplayDetails()} ,{m3.DoWheelie()}");
 
 
-            Vehicle[] vehicles =
+            IVehicle[] vehicles =
             {
                 new Car("Toyota", "2026", 100000, 4),
                 new Motorcycle("bmw", "2026", 5000, "Yes"),
                 new Car("Honda", "2025", 80000, 2),
-                new Motorcycle("Yamaha", "2024", 3000, "No")
+                new Motorcycle("Yamaha", "2024", 3000, "No"),
+                new Drone("DJI Mavic Air 2"),
 
             };
 
