@@ -8,7 +8,7 @@ namespace SecondConsoleApp.OOP_Level3.day4
 {
     internal class Employee_Test
     {
-        static void Main(string[] args)
+        static void Mainn(string[] args)
         {
            // Employee e1 = new Employee("John Doe", 30, 1000);
             EmployeeBase e2 = new EmployeeBase("Jane Smith", 28, 1000, 500);

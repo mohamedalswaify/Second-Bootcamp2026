@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\car\\cars_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\car\\cars_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day4\\employee_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day4\\employee_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day4\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day4\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\emp\\employee_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\emp\\employee_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day4\\employeehour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day4\\employeehour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\car\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\car\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\car\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\car\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day3\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day3\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\emp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\emp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\emp\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\emp\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\emp\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\emp\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\emp\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\emp\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\emp\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\emp\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\2_csharp\\secondconsoleapp\\secondconsoleapp\\oop_level3\\day5\\emp\\employeehour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784D5206-7B08-493D-B595-3D2E24BAA316}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\oop_level3\\day5\\emp\\employeehour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 258,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,60 +70,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeHour.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day4\\EmployeeHour.cs",
-              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day4\\EmployeeHour.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day4\\EmployeeHour.cs",
-              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day4\\EmployeeHour.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T14:13:54.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeBase.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day4\\EmployeeBase.cs",
-              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day4\\EmployeeBase.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day4\\EmployeeBase.cs",
-              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day4\\EmployeeBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T14:13:54.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Employee_Test.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day4\\Employee_Test.cs",
               "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day4\\Employee_Test.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day4\\Employee_Test.cs",
               "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day4\\Employee_Test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T14:13:53.393Z",
+              "WhenOpened": "2026-08-04T14:24:44.078Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 158,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cars_test.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Car\\Cars_test.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Car\\Cars_test.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Car\\Cars_test.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Car\\Cars_test.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:21:56.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Car\\Car.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Car\\Car.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Car\\Car.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Car\\Car.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:18:15.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day3\\Task.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day3\\Task.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day3\\Task.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day3\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:17:38.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Car\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Car\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Car\\Motorcycle.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Car\\Motorcycle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:17:00.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Car\\Vehicle.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Car\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Car\\Vehicle.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Car\\Vehicle.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:15:44.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Freelancer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Freelancer.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Freelancer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Freelancer.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Freelancer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:11:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\IPrintable.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\IPrintable.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T13:57:29.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\IEmployee.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\IEmployee.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T13:54:23.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeHour.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\EmployeeHour.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\EmployeeHour.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\EmployeeHour.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\EmployeeHour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T13:53:36.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeBase.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\EmployeeBase.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\EmployeeBase.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\EmployeeBase.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\EmployeeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T13:53:31.449Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day4\\Employee.cs",
-              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day4\\Employee.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day4\\Employee.cs*",
-              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day4\\Employee.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
+              "Title": "Employee_Test.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Employee_Test.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Employee_Test.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Employee_Test.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Employee_Test.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T14:13:52.371Z",
+              "WhenOpened": "2026-08-04T13:53:26.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Employee.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\2_CSharp\\SecondConsoleApp\\SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Employee.cs",
+              "RelativeToolTip": "SecondConsoleApp\\OOP_Level3\\day5\\Emp\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T13:53:11.987Z",
               "EditorCaption": ""
             }
           ]
