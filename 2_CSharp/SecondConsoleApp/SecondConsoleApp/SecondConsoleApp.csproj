@@ -97,6 +97,13 @@
     <Compile Include="OOP_Level3\day5\Emps\Freelancer.cs" />
     <Compile Include="OOP_Level3\day5\Emps\IEmployee.cs" />
     <Compile Include="OOP_Level3\day5\Emps\IPrintable.cs" />
+    <Compile Include="OOP_Level3\day6\Animals\Animal.cs" />
+    <Compile Include="OOP_Level3\day6\Animals\Animal_Test.cs" />
+    <Compile Include="OOP_Level3\day6\Animals\Bird.cs" />
+    <Compile Include="OOP_Level3\day6\Animals\Cat.cs" />
+    <Compile Include="OOP_Level3\day6\Animals\Dog.cs" />
+    <Compile Include="OOP_Level3\day6\Animals\Fish.cs" />
+    <Compile Include="OOP_Level3\day6\Animals\IAnimal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Level1\day4\Quiz.cs" />
   </ItemGroup>

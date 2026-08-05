@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SecondConsoleApp.OOP_Level3.day5.Animals
+namespace SecondConsoleApp.OOP_Level3.day6.Animals
 {
     internal class Animal_Test
     {
@@ -19,10 +19,12 @@ namespace SecondConsoleApp.OOP_Level3.day5.Animals
             //Console.WriteLine($"{c3.DisplayInfo()}, {c3.Meow()}");
 
 
-            Animal[] animals =
+            IAnimal[] animals =
                 {
             new Dog("dog", 6, "Black", "Husky"),
-            new Cat("cat", 5, "Yellow", "yes")
+            new Cat("cat", 5, "Yellow", "yes"),
+            new Fish("fish",  "Blue", true),
+            new Bird("bird", "Red", true)
 
                  };
             foreach (var animal in animals) {

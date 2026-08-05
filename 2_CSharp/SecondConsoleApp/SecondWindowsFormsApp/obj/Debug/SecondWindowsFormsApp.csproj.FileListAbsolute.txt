@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\bin\Debug\SecondWindowsFormsApp.exe.config
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\bin\Debug\SecondWindowsFormsApp.exe
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\bin\Debug\SecondWindowsFormsApp.pdb
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\obj\Debug\SecondWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\obj\Debug\SecondWindowsFormsApp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\obj\Debug\SecondWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\obj\Debug\SecondWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\obj\Debug\SecondWindowsFormsApp.exe
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\obj\Debug\SecondWindowsFormsApp.pdb
+C:\Users\LENOVO\Desktop\Scond Bootcamp\2_CSharp\SecondConsoleApp\SecondWindowsFormsApp\obj\Debug\SecondWindowsFormsApp.gggg.resources
