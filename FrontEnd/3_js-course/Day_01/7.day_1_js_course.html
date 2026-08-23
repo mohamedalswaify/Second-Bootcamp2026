@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <title>اليوم الأول - المتغيرات وDOM</title>
+    <style>
+        body {
+            font-family: Arial;
+            padding: 30px;
+        }
+        
+        .output {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f2f2f2;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>اليوم الأول - المتغيرات وقراءة عناصر HTML</h1>
+
+    <label for="userInput">أدخل اسمك:</label>
+    <input type="text" id="userInput">
+    <button onclick="displayInput()">اعرض الاسم</button>
+
+    <div id="result" class="output"></div>
+
+
+
+    <script>
+        function displayInput() {
+
+            var name = document.getElementById('userInput').value;
+            if (name.trim() === "") {
+                document.getElementById("result").innerText = "please Enter Your Name"
+            } else {
+                document.getElementById('result').innerText = `Welcome ${name}`;
+            }
+
+
+
+        }
+    </script>
+</body>
+
+</html>
