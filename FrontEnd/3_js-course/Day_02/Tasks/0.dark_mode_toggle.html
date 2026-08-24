@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task 1 - Toggle CSS Class</title>
+
+    <style>
+        p
+        {
+            padding: 15px;
+            border: 1px solid gray;
+        }
+
+        .highlight
+        {
+            background-color: yellow;
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+<body>
+
+    <h2>Task 1: Toggle a CSS Class</h2>
+
+    <p id="text">
+        This is a paragraph.
+    </p>
+
+    <button onclick="highlightText()">Highlight</button>
+
+    <button id="btn">Highlight2</button>
+
+    <script>
+
+        function highlightText()
+        {
+            document.getElementById("text").classList.toggle("highlight");
+        }
+
+
+ document.getElementById("btn").addEventListener("click", () => {
+  document.getElementById("text").classList.toggle("highlight");
+});
+
+
+    </script>
+
+
+
+
+
+</body>
+</html>
