@@ -37,8 +37,6 @@ Below is a structured list of all the practical files included in Day 2 with a s
 - **Topic:** Fetching user data from public API and rendering it as card elements.
 - **You will learn:** Working with APIs + DOM insertion inside a section using real remote data.
 
-### `8.Dynamic Menu Page with Category Filter`
-**Objective:** Display a dynamic food menu with the ability to filter items by category (e.g., Breakfast, Lunch, Shakes).
 
 **Skills Gained:**
 - Use of `array.filter()` or manual loops to show data based on user interaction
