@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KeyUp Example</title>
+</head>
+<body>
+    <h3>اكتب في الحقل وشاهد ما تكتبه مباشرة 👇</h3>
+    <input type="text" id="nameInput" placeholder="اكتب اسمك هنا">
+    <p>أنت كتبت: <span id="output"></span></p>
+
+    <script>
+    const input = document.getElementById('nameInput');
+    const output = document.getElementById('output');
+
+    input.addEventListener('keyup', function () {
+      output.innerText = input.value; // ✅ يتم تحديث النص مع كل ضغطة زر
+    });
+    </script>
+</body>
+</html>
