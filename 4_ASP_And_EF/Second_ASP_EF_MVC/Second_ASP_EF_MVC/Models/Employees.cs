@@ -1,0 +1,10 @@
+﻿namespace Second_ASP_EF_MVC.Models
+{
+    public class Employees
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+
+        public string Description { get; set; }
+    }
+}

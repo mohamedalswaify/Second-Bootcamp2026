@@ -1,0 +1,27 @@
+﻿@model IList<Employees>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="">
+    <h1 class="display-4">Test Page</h1>
+   <table class="table table-primary">
+       <thead>
+           <tr>
+           <th>ID</th>
+           <th>Name</th>
+           <th>Description</th>
+            </tr>
+       </thead>
+ <tbody>
+    @foreach(var emp in Model)
+    {<tr>
+            <td>@emp.Id</td>
+            <td>@emp.Name</td>
+            <td>@emp.Description</td>
+                </tr>
+    }
+    </tbody>
+    </table>
+
+</div>
