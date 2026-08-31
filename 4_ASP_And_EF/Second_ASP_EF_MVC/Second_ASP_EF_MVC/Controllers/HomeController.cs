@@ -24,11 +24,11 @@ namespace Second_ASP_EF_MVC.Controllers
 
         public IActionResult Test()
         {
-            IList<Employees> employees = new List<Employees>();
-            employees.Add(new Employees { Id=1,Name="Mohamed",Description="Test"});
-            employees.Add(new Employees { Id=2,Name="Ali",Description="Test"});
-            employees.Add(new Employees { Id=3,Name="Ahmed",Description="Test"});
-            employees.Add(new Employees { Id=4,Name="Sara",Description="Test"});
+            IList<Employee> employees = new List<Employee>();
+            employees.Add(new Employee { Id=1,Name="Mohamed",Description="Test"});
+            employees.Add(new Employee { Id=2,Name="Ali",Description="Test"});
+            employees.Add(new Employee { Id=3,Name="Ahmed",Description="Test"});
+            employees.Add(new Employee { Id=4,Name="Sara",Description="Test"});
 
             return View(employees);
         }
