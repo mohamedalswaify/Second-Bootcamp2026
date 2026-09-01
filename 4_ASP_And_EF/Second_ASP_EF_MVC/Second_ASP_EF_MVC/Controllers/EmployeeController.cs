@@ -23,6 +23,9 @@ namespace Second_ASP_EF_MVC.Controllers
             IEnumerable<Employee> employees = _db.Employees.ToList();
             return View(employees);
         }
+
+
+
         //public IActionResult Index()
         //{
         //    //Ado.Net Approach
