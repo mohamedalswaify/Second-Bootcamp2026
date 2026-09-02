@@ -3,13 +3,12 @@
     ViewData["Title"] = "Category Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">Welcome  To Category Page</a>.</p>
-</div>
 
-<div class="container mt-2">
-    <table class="table  table-primary table-hover">
+<div class="container mt-2"> 
+    <div class="mb-3 text-end" >
+        <a  asp-action="Create" class="btn btn-primary">Create New Category</a>
+    </div>
+    <table class="table table-hover">
         <thead>
             <tr>
                 <th>ID</th>

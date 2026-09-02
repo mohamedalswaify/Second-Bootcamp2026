@@ -21,5 +21,17 @@ namespace Second_ASP_EF_MVC.Controllers
             IEnumerable<Category> categories = _db.Categories.ToList();
             return View(categories);
         }
-    }
+
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+
+
+
+
+
+        }
 }

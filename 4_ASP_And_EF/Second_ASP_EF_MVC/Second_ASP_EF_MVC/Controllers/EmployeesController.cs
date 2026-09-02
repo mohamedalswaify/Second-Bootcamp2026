@@ -5,12 +5,12 @@ using Second_ASP_EF_MVC.Models;
 
 namespace Second_ASP_EF_MVC.Controllers
 {
-    public class EmployeeController : Controller
+    public class EmployeesController : Controller
     {
         //Dependency Injection 
 
         private readonly AppDbContext _db;
-        public EmployeeController(AppDbContext db)
+        public EmployeesController(AppDbContext db)
         {
             _db = db;
 
