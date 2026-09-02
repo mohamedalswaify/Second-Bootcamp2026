@@ -7,68 +7,24 @@
       "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\migrations\\20260831152801_intaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\migrations\\20260831152801_intaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|c:\\users\\lenovo\\desktop\\scond bootcamp\\4_asp_and_ef\\second_asp_ef_mvc\\second_asp_ef_mvc\\migrations\\20260901152539_addtablecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E9832EA-73F0-4A61-AC13-785017BEE6F1}|Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj|solutionrelative:second_asp_ef_mvc\\migrations\\20260901152539_addtablecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,8 +33,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 203,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -87,115 +43,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Create.cshtml",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Views\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Create.cshtml",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Categories\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Delete.cshtml*",
+              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Categories\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-02T13:40:31.38Z",
+              "WhenOpened": "2026-09-02T15:03:23.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Controllers\\CategoriesController.cs*",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Controllers\\CategoriesController.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T15:26:12.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Models\\Category.cs",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T15:24:40.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20260831152801_intailDB.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Migrations\\20260831152801_intailDB.cs",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Migrations\\20260831152801_intailDB.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Migrations\\20260831152801_intailDB.cs",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Migrations\\20260831152801_intailDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T15:28:02.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T14:59:15.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABDAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-31T13:57:32.148Z",
+              "WhenOpened": "2026-09-02T15:00:40.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Employees\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Second_ASP_EF_MVC\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwEwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:56:14.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-31T13:54:35.211Z",
+              "WhenOpened": "2026-09-02T13:40:31.38Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T13:53:54.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:33:45.483Z"
             },
             {
               "$type": "Document",
@@ -203,96 +98,25 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Index.cshtml*",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Categories\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-01T15:27:30.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20260901152539_AddtableCategory.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Migrations\\20260901152539_AddtableCategory.cs",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Migrations\\20260901152539_AddtableCategory.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Migrations\\20260901152539_AddtableCategory.cs",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Migrations\\20260901152539_AddtableCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Models\\Category.cs",
+              "RelativeToolTip": "Second_ASP_EF_MVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T15:25:40.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\appsettings.json",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-30T15:19:07.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Program.cs",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Program.cs",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T15:18:52.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Test.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Home\\Test.cshtml",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Views\\Home\\Test.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Home\\Test.cshtml",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Home\\Test.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-30T14:59:40.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-30T14:34:57.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-30T14:28:19.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Second_ASP_EF_MVC\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Second_ASP_EF_MVC\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-30T14:26:49.197Z"
+              "WhenOpened": "2026-09-01T15:24:40.711Z",
+              "EditorCaption": ""
             }
           ]
         }
