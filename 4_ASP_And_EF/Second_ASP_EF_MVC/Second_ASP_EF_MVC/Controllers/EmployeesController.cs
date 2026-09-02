@@ -20,7 +20,7 @@ namespace Second_ASP_EF_MVC.Controllers
         public IActionResult Index()
         {
             //Entity Framework Approach           
-            IEnumerable<Employee> employees = _db.Employees.ToList();
+            IEnumerable<Employee> employees = _db.Employees.Include(e=>e.Department).ToList();
             return View(employees);
         }
 
