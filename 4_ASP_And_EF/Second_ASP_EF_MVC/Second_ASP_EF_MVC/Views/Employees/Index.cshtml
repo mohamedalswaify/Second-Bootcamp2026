@@ -6,6 +6,10 @@
 
 
 <div class="container mt-2">
+    <div>
+        <h2>Employee List</h2>
+        <a class="btn btn-primary" asp-action="Create">Create New Employee</a>
+    </div>
     <table class="table  table-primary table-hover">
         <thead>
             <tr>
@@ -14,7 +18,7 @@
              
             <th>Description</th>
                 <th>Department</th>
-              
+                <th>Actions</th>
             </tr>
         </thead>
         <tbody>
@@ -25,6 +29,10 @@
                     <td>@employee.Name</td>
                     <td>@employee.Description</td>
                     <td>@employee.Department?.Name</td>
+                    <td>
+                        <a class="btn btn-info" asp-action="Details" asp-route-id="@employee.Id">Details</a>
+                        <a class="btn btn-warning" asp-action="Edit" asp-route-id="@employee.Id">Edit</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@employee.Id">Delete</a>
                   
                 </tr>
             }
