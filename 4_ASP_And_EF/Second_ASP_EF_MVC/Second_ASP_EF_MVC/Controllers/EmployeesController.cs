@@ -91,17 +91,7 @@ namespace Second_ASP_EF_MVC.Controllers
             return View(employee);
         }
 
-        public IActionResult Details(int id)
-        {
-            //ViewBag.Departments = _db.Departments.ToList();
-            var employee = _db.Employees.Include(e => e.Department).FirstOrDefault(e => e.Id == id);
-            if (employee == null)
-            {
-                return NotFound();
-            }
-            return View(employee);
-        }
-
+  
 
 
         //public IActionResult Index()

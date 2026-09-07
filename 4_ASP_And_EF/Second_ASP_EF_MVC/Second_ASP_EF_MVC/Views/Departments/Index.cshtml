@@ -1,0 +1,304 @@
+﻿@model IEnumerable<Department>
+
+@{
+    ViewData["Title"] = "Departments";
+    int counter = 1;
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between mb-3">
+
+        <h2>Department List</h2>
+
+        <!-- Open Create Modal -->
+        <button class="btn btn-primary"
+                data-bs-toggle="modal"
+                data-bs-target="#createModal">
+            Create Department
+        </button>
+
+    </div>
+    <!-- ========================= -->
+    <!-- Departments Table -->
+    <!-- ========================= -->
+
+    <table class="table table-bordered table-hover">
+
+        <thead class="table-primary">
+
+            <tr>
+                <th>#</th>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Actions</th>
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+            @foreach (var department in Model)
+            {
+                <tr>
+                    <td>@counter</td>
+
+                    @{
+                        counter++;
+                    }
+                
+                   
+                    
+                    <td>@department.Id</td>
+
+                    <td>@department.Name</td>
+
+                    <td>
+
+                        <!-- Edit Button -->
+                        <button class="btn btn-warning"
+                                data-bs-toggle="modal"
+                                data-bs-target="#editModal-@department.Id">
+                            Edit
+                        </button>
+
+
+                        <!-- Delete Button -->
+                        <button class="btn btn-danger"
+                                data-bs-toggle="modal"
+                                data-bs-target="#deleteModal-@department.Id">
+                            Delete
+                        </button>
+
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+</div>
+
+
+
+<!-- ================================================= -->
+<!-- CREATE MODAL -->
+<!-- ================================================= -->
+
+<div class="modal fade"
+     id="createModal"
+     tabindex="-1">
+
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+
+            <form asp-action="Create" method="post">
+
+                <div class="modal-header">
+
+                    <h5 class="modal-title">
+                        Create Department
+                    </h5>
+
+                    <button type="button"
+                            class="btn-close"
+                            data-bs-dismiss="modal">
+                    </button>
+
+                </div>
+
+
+                <div class="modal-body">
+
+                    <div class="mb-3">
+
+                        <label class="form-label">
+                            Department Name
+                        </label>
+
+                        <input name="Name"
+                               class="form-control"
+                               placeholder="Enter department name" />
+
+                    </div>
+
+                </div>
+
+
+                <div class="modal-footer">
+
+                    <button type="button"
+                            class="btn btn-secondary"
+                            data-bs-dismiss="modal">
+                        Cancel
+                    </button>
+
+                    <button type="submit"
+                            class="btn btn-primary">
+                        Create
+                    </button>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<!-- ================================================= -->
+<!-- EDIT + DELETE MODALS -->
+<!-- ================================================= -->
+
+@foreach (var department in Model)
+{
+    <!-- ========================= -->
+    <!-- EDIT MODAL -->
+    <!-- ========================= -->
+
+    <div class="modal fade"
+    id="editModal-@department.Id"
+    tabindex="-1">
+
+        <div class="modal-dialog">
+
+            <div class="modal-content">
+
+                <form asp-action="Edit" method="post">
+
+                    <!-- Important -->
+                    <input type="hidden"
+                    name="Id"
+                    value="@department.Id" />
+
+
+                    <div class="modal-header">
+
+                        <h5 class="modal-title">
+                            Edit Department
+                        </h5>
+
+                        <button type="button"
+                        class="btn-close"
+                        data-bs-dismiss="modal">
+                        </button>
+
+                    </div>
+
+
+                    <div class="modal-body">
+
+                        <div class="mb-3">
+
+                            <label class="form-label">
+                                Department Name
+                            </label>
+
+                            <input type="text"
+                            name="Name"
+                            value="@department.Name"
+                            class="form-control" />
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="modal-footer">
+
+                        <button type="button"
+                        class="btn btn-secondary"
+                        data-bs-dismiss="modal">
+                            Cancel
+                        </button>
+
+                        <button type="submit"
+                        class="btn btn-warning">
+                            Save Changes
+                        </button>
+
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+<!-- ========================= -->
+<!-- DELETE MODAL -->
+<!-- ========================= -->
+
+<div class="modal fade"
+     id="deleteModal-@department.Id"
+     tabindex="-1">
+
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+
+            <form asp-action="Delete" method="post">
+
+                <input type="hidden"
+                       name="id"
+                       value="@department.Id" />
+
+
+                <div class="modal-header">
+
+                    <h5 class="modal-title">
+                        Delete Department
+                    </h5>
+
+                    <button type="button"
+                            class="btn-close"
+                            data-bs-dismiss="modal">
+                    </button>
+
+                </div>
+
+
+                <div class="modal-body">
+
+                    <p>
+                        Are you sure you want to delete
+                        <strong>@department.Name</strong>?
+                    </p>
+
+                </div>
+
+
+                <div class="modal-footer">
+
+                    <button type="button"
+                            class="btn btn-secondary"
+                            data-bs-dismiss="modal">
+                        Cancel
+                    </button>
+
+                    <button type="submit"
+                            class="btn btn-danger">
+                        Delete
+                    </button>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>
+}

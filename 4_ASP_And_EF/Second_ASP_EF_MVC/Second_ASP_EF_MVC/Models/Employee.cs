@@ -16,5 +16,12 @@ namespace Second_ASP_EF_MVC.Models
         [ForeignKey("Department")]
         public int? DepartmentId { get; set; } // Foreign key property
         public Department? Department { get; set; } // Navigation property
+
+
+
+        [ForeignKey("Role")]
+        public int? RoleId { get; set; } // Foreign key property
+        public Role? Role { get; set; } // Navigation property
+
     }
 }

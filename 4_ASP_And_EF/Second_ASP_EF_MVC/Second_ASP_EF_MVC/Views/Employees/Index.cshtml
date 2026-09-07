@@ -30,12 +30,99 @@
                     <td>@employee.Description</td>
                     <td>@employee.Department?.Name</td>
                     <td>
-                        <a class="btn btn-info" asp-action="Details" asp-route-id="@employee.Id">Details</a>
+                        <!-- Details Popup -->
+                        <button type="button"
+                                class="btn btn-info"
+                                data-bs-toggle="modal"
+                                data-bs-target="#detailsModal-@employee.Id">
+                            Details
+                        </button>
+
+
                         <a class="btn btn-warning" asp-action="Edit" asp-route-id="@employee.Id">Edit</a>
-                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@employee.Id">Delete</a>
+                        <form asp-action="Delete" asp-route-id="@employee.Id" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                      
                   
                 </tr>
             }
         </tbody>
     </table>
 </div>
+
+
+
+
+<!-- ========================= -->
+<!-- Employee Details Modals   -->
+<!-- ========================= -->
+@foreach (var employee in Model)
+{
+    <div class="modal fade"
+         id="detailsModal-@employee.Id"
+         tabindex="-1"
+         aria-hidden="true">
+
+        <div class="modal-dialog">
+
+            <div class="modal-content">
+
+                <!-- Header -->
+                <div class="modal-header">
+
+                    <h5 class="modal-title">
+                        Employee Details
+                    </h5>
+
+                    <button type="button"
+                            class="btn-close"
+                            data-bs-dismiss="modal">
+                    </button>
+
+                </div>
+
+
+                <!-- Body -->
+                <div class="modal-body">
+
+                    <p>
+                        <strong>ID:</strong>
+                        @employee.Id
+                    </p>
+
+                    <p>
+                        <strong>Name:</strong>
+                        @employee.Name
+                    </p>
+
+                    <p>
+                        <strong>Description:</strong>
+                        @employee.Description
+                    </p>
+
+                    <p>
+                        <strong>Department:</strong>
+                        @employee.Department?.Name
+                    </p>
+
+                </div>
+
+
+                <!-- Footer -->
+                <div class="modal-footer">
+
+                    <button type="button"
+                            class="btn btn-secondary"
+                            data-bs-dismiss="modal">
+                        Close
+                    </button>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+}
