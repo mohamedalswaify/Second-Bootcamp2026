@@ -71,6 +71,13 @@
                             Delete
                         </button>
 
+                        <a asp-controller="Users"
+                           asp-action="ManageRoles"
+                           asp-route-id="@user.Id"
+                           class="btn btn-warning">
+                            Roles
+                        </a>
+
                     </td>
 
                 </tr>

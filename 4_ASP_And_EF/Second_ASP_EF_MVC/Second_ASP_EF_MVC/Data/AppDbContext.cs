@@ -26,6 +26,8 @@ namespace Second_ASP_EF_MVC.Data
 
         public DbSet<PermissionRole> PermissionRoles { get; set; }
 
+        public DbSet<RoleUser> RoleUsers { get; set; }
+
 
 
 
@@ -40,9 +42,16 @@ namespace Second_ASP_EF_MVC.Data
                     pr.PemissionsId
                 });
 
+
+            modelBuilder.Entity<RoleUser>()
+                .HasKey(ru => new
+                {
+                    ru.RoleId,
+                    ru.UserId
+
+                });
+
         }
-
-
 
         }
 }
