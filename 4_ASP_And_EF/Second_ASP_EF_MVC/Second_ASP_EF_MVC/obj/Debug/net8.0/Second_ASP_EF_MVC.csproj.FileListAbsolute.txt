@@ -145,3 +145,4 @@ C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP
 C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC\obj\Debug\net8.0\Second_ASP_EF_MVC.csproj.AssemblyReference.cache
 C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC\obj\Debug\net8.0\Second_A.53897973.Up2Date
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC\bin\Debug\net8.0\BCrypt.Net-Core.dll

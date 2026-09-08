@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Second_ASP_EF_MVC.Data;
 
@@ -11,9 +12,11 @@ using Second_ASP_EF_MVC.Data;
 namespace Second_ASP_EF_MVC.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260908135544_addNullToPassword")]
+    partial class addNullToPassword
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -34,7 +37,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasIndex("RolesId");
 
-                    b.ToTable("PermissionRole", (string)null);
+                    b.ToTable("PermissionRole");
                 });
 
             modelBuilder.Entity("RoleUser", b =>
@@ -49,7 +52,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasIndex("UsersId");
 
-                    b.ToTable("RoleUser", (string)null);
+                    b.ToTable("RoleUser");
                 });
 
             modelBuilder.Entity("Second_ASP_EF_MVC.Models.Category", b =>
@@ -66,7 +69,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories", (string)null);
+                    b.ToTable("Categories");
                 });
 
             modelBuilder.Entity("Second_ASP_EF_MVC.Models.Department", b =>
@@ -83,7 +86,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Departments", (string)null);
+                    b.ToTable("Departments");
                 });
 
             modelBuilder.Entity("Second_ASP_EF_MVC.Models.Employee", b =>
@@ -113,7 +116,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasIndex("RoleId");
 
-                    b.ToTable("Employees", (string)null);
+                    b.ToTable("Employees");
                 });
 
             modelBuilder.Entity("Second_ASP_EF_MVC.Models.Permission", b =>
@@ -130,7 +133,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Permissions", (string)null);
+                    b.ToTable("Permissions");
                 });
 
             modelBuilder.Entity("Second_ASP_EF_MVC.Models.PermissionRole", b =>
@@ -145,7 +148,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasIndex("PemissionsId");
 
-                    b.ToTable("PermissionRoles", (string)null);
+                    b.ToTable("PermissionRoles");
                 });
 
             modelBuilder.Entity("Second_ASP_EF_MVC.Models.Product", b =>
@@ -170,7 +173,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products", (string)null);
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("Second_ASP_EF_MVC.Models.Role", b =>
@@ -187,7 +190,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Roles", (string)null);
+                    b.ToTable("Roles");
                 });
 
             modelBuilder.Entity("Second_ASP_EF_MVC.Models.User", b =>
@@ -219,7 +222,7 @@ namespace Second_ASP_EF_MVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users", (string)null);
+                    b.ToTable("Users");
                 });
 
             modelBuilder.Entity("PermissionRole", b =>

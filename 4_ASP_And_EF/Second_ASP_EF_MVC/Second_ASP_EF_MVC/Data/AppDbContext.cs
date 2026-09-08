@@ -22,7 +22,7 @@ namespace Second_ASP_EF_MVC.Data
 
         public DbSet<Role> Roles { get; set; }
         public DbSet<Permission> Permissions { get; set; }
-        public DbSet<Users> Users { get; set; }
+        public DbSet<User> Users { get; set; }
 
         public DbSet<PermissionRole> PermissionRoles { get; set; }
 

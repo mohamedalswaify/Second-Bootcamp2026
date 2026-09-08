@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Je98H72EsH0=",
+  "dgSpecHash": "xK+h91UmtyQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.12.1\\azure.identity.1.12.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
