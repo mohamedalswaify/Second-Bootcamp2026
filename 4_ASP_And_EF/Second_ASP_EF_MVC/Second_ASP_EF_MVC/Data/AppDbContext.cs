@@ -24,9 +24,25 @@ namespace Second_ASP_EF_MVC.Data
         public DbSet<Permission> Permissions { get; set; }
         public DbSet<Users> Users { get; set; }
 
+        public DbSet<PermissionRole> PermissionRoles { get; set; }
 
 
 
 
-    }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<PermissionRole>()
+                .HasKey(pr => new
+                {
+                    pr.RolesId,
+                    pr.PemissionsId
+                });
+
+        }
+
+
+
+        }
 }
