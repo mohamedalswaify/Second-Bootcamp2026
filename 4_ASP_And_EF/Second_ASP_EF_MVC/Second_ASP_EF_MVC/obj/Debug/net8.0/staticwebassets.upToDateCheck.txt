@@ -58,3 +58,23 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\template\401.html
+wwwroot\template\404.html
+wwwroot\template\500.html
+wwwroot\template\assets\demo\chart-area-demo.js
+wwwroot\template\assets\demo\chart-bar-demo.js
+wwwroot\template\assets\demo\chart-pie-demo.js
+wwwroot\template\assets\demo\datatables-demo.js
+wwwroot\template\assets\img\error-404-monochrome.svg
+wwwroot\template\charts.html
+wwwroot\template\css\styles.css
+wwwroot\template\index - Copy.html
+wwwroot\template\index.html
+wwwroot\template\js\datatables-simple-demo.js
+wwwroot\template\js\scripts.js
+wwwroot\template\layout-sidenav-light.html
+wwwroot\template\layout-static.html
+wwwroot\template\login.html
+wwwroot\template\password.html
+wwwroot\template\register.html
+wwwroot\template\tables.html
