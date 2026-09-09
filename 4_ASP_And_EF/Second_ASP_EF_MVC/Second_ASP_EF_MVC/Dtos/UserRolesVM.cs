@@ -1,5 +1,7 @@
 ﻿namespace Second_ASP_EF_MVC.Dtos
 {
+
+
     public class UserRolesVM
     {
         public int UserId { get; set; }
@@ -8,6 +10,8 @@
         public List<RoleCheckVM> Roles { get; set; }
     }
 
+
+
     public class RoleCheckVM
     {
         public int RoleId { get; set; }
@@ -15,4 +19,9 @@
 
         public bool IsSelected { get; set; }
     }
+
+
+
+
+
 }
