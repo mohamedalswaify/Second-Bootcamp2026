@@ -38,10 +38,14 @@ namespace Second_ASP_EF_MVC.Controllers
 
 
         [HttpPost]
-        public IActionResult Create(Product product)
+        public IActionResult Create(Product product, IFormFile image)
         {
             if (ModelState.IsValid)
             {
+                if (image != null)
+                {
+                    product.ImageUrl = UploadImage(image);
+                }
                 _db.Products.Add(product);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
@@ -76,6 +80,38 @@ namespace Second_ASP_EF_MVC.Controllers
             GetCategories();
             return View(product);
         }
+
+        private string UploadImage(IFormFile image)
+        {
+            string fileName = Guid.NewGuid().ToString()
+                              + Path.GetExtension(image.FileName);
+
+
+            string folderPath = Path.Combine(
+      Directory.GetCurrentDirectory(),
+      "wwwroot",
+      "images",
+      "products"
+  );
+
+            Directory.CreateDirectory(folderPath);
+
+
+            string filePath = Path.Combine(
+          folderPath,
+          fileName);
+
+
+
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                image.CopyTo(stream);
+            }
+
+            return "/images/products/" + fileName;
+        }
+
+
 
         [HttpPost]
         public IActionResult Delete(int Id)
