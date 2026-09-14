@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Second_ASP_EF_MVC.Data;
+using Second_ASP_EF_MVC.Dtos.DepartmentsDtos;
 using Second_ASP_EF_MVC.Models;
 
 namespace Second_ASP_EF_MVC.Controllers
@@ -16,7 +17,13 @@ namespace Second_ASP_EF_MVC.Controllers
 
         public IActionResult Index()
         {
-            var departments = _db.Departments.ToList();
+
+            var departments = _db.Departments.Select(d => new DepartmentDto
+            {
+                Id = d.Id,
+                Name = d.Name,
+
+            });
 
             return View(departments);
         }
@@ -24,12 +31,23 @@ namespace Second_ASP_EF_MVC.Controllers
         // =========================
         // Create
         // =========================
+
+
+
         [HttpPost]
-        public IActionResult Create(Department department)
+        public IActionResult Create(CreateDepartmentDto department)
         {
+        
+
             if (ModelState.IsValid)
             {
-                _db.Departments.Add(department);
+                //Mapping
+                var dept = new Department
+                {
+                    Name = department.Name,
+                };
+
+                _db.Departments.Add(dept);
                 _db.SaveChanges();
             }
 
@@ -41,11 +59,16 @@ namespace Second_ASP_EF_MVC.Controllers
         // Edit
         // =========================
         [HttpPost]
-        public IActionResult Edit(Department department)
+        public IActionResult Edit(UpdateDepartmentDto department)
         {
             if (ModelState.IsValid)
             {
-                _db.Departments.Update(department);
+                var dept = new  Department 
+                    { 
+                    Name = department.Name,
+                    Id=department.Id
+                };
+                _db.Departments.Update(dept);
                 _db.SaveChanges();
             }
 

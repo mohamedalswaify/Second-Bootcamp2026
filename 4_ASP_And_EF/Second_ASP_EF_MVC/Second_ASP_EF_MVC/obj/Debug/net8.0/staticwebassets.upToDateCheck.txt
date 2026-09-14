@@ -1,5 +1,6 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Files\Users\ID Number_4c0f5a77-c021-4b18-856a-6c941d86d8cb.png
 wwwroot\Files\Users\myPhoto_0b72c069-d6f2-4975-a208-abdf936b3b37.png
 wwwroot\Files\Users\myPhoto_2d47a667-2da5-4628-ac20-41fa45864e35.png
 wwwroot\Files\Users\myPhoto_57ab09e1-a3f7-476e-be20-85db38633143.jpeg
