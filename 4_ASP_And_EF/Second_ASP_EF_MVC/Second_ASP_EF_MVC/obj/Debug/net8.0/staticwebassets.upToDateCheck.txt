@@ -1,5 +1,9 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Files\Users\myPhoto_0b72c069-d6f2-4975-a208-abdf936b3b37.png
+wwwroot\Files\Users\myPhoto_2d47a667-2da5-4628-ac20-41fa45864e35.png
+wwwroot\Files\Users\myPhoto_57ab09e1-a3f7-476e-be20-85db38633143.jpeg
+wwwroot\Files\Users\myPhoto_a236bae7-dcdf-4377-a899-9d94da3b08a6.png
 wwwroot\images\products\12403d7c-09c1-4fbd-9cf5-80150a1dc7fe.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css

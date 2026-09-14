@@ -28,7 +28,8 @@ namespace Second_ASP_EF_MVC.Data
 
         public DbSet<RoleUser> RoleUsers { get; set; }
 
-
+        public DbSet<UserFile> UserFiles { get; set; }
+             
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

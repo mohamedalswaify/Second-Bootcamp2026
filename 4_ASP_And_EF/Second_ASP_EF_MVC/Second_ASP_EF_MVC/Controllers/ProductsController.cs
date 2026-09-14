@@ -75,7 +75,7 @@ namespace Second_ASP_EF_MVC.Controllers
             {
                 _db.Products.Update(product);
                 _db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction(nameof(Index));
             }
             GetCategories();
             return View(product);
