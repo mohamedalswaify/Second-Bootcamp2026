@@ -1,11 +1,5 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\Files\Users\ID Number_4c0f5a77-c021-4b18-856a-6c941d86d8cb.png
-wwwroot\Files\Users\myPhoto_0b72c069-d6f2-4975-a208-abdf936b3b37.png
-wwwroot\Files\Users\myPhoto_2d47a667-2da5-4628-ac20-41fa45864e35.png
-wwwroot\Files\Users\myPhoto_57ab09e1-a3f7-476e-be20-85db38633143.jpeg
-wwwroot\Files\Users\myPhoto_a236bae7-dcdf-4377-a899-9d94da3b08a6.png
-wwwroot\images\products\12403d7c-09c1-4fbd-9cf5-80150a1dc7fe.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -74,7 +68,6 @@ wwwroot\template\assets\demo\datatables-demo.js
 wwwroot\template\assets\img\error-404-monochrome.svg
 wwwroot\template\charts.html
 wwwroot\template\css\styles.css
-wwwroot\template\index - Copy.html
 wwwroot\template\index.html
 wwwroot\template\js\datatables-simple-demo.js
 wwwroot\template\js\scripts.js
@@ -84,3 +77,10 @@ wwwroot\template\login.html
 wwwroot\template\password.html
 wwwroot\template\register.html
 wwwroot\template\tables.html
+wwwroot\template\index - Copy.html
+wwwroot\images\products\12403d7c-09c1-4fbd-9cf5-80150a1dc7fe.png
+wwwroot\Files\Users\myPhoto_57ab09e1-a3f7-476e-be20-85db38633143.jpeg
+wwwroot\Files\Users\myPhoto_a236bae7-dcdf-4377-a899-9d94da3b08a6.png
+wwwroot\Files\Users\myPhoto_0b72c069-d6f2-4975-a208-abdf936b3b37.png
+wwwroot\Files\Users\myPhoto_2d47a667-2da5-4628-ac20-41fa45864e35.png
+wwwroot\Files\Users\ID Number_4c0f5a77-c021-4b18-856a-6c941d86d8cb.png

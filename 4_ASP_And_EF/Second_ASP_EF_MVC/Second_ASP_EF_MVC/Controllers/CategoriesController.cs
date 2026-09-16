@@ -43,9 +43,9 @@ namespace Second_ASP_EF_MVC.Controllers
         }
 
         [HttpGet]
-        public IActionResult Edit(int Id)
+        public IActionResult Edit(string uid)
         {
-            var category = _db.Categories.Find(Id);
+            var category = _db.Categories.FirstOrDefault(e=>e.UID == uid);
             if (category == null)
             {
                 return NotFound();
@@ -59,6 +59,9 @@ namespace Second_ASP_EF_MVC.Controllers
         {
             if (ModelState.IsValid)
             {
+                if(category.UID ==null)
+                    category.UID = Guid.NewGuid().ToString();
+
                 _db.Categories.Update(category);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
@@ -67,9 +70,9 @@ namespace Second_ASP_EF_MVC.Controllers
         }
 
         [HttpGet]
-        public IActionResult Delete(int Id)
+        public IActionResult Delete(string uid)
         {
-            var category = _db.Categories.Find(Id);
+            var category = _db.Categories.FirstOrDefault(e => e.UID == uid);
             if (category == null)
             {
                 return NotFound();
