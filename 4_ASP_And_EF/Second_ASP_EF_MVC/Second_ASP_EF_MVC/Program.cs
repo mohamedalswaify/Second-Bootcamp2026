@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Second_ASP_EF_MVC.Data;
+using Second_ASP_EF_MVC.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,9 @@ var conectionString = builder.Configuration.GetConnectionString("DefaultDatabase
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseSqlServer(conectionString));
+
+
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
 
 

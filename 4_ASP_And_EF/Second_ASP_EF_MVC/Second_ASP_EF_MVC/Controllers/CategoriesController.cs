@@ -1,25 +1,37 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Second_ASP_EF_MVC.Data;
 using Second_ASP_EF_MVC.Models;
+using Second_ASP_EF_MVC.Repositories;
 
 namespace Second_ASP_EF_MVC.Controllers
 {
     public class CategoriesController : Controller
     {
 
-        private readonly AppDbContext _db;
-        public CategoriesController(AppDbContext db)
+        private readonly ICategoryRepository _repo;
+        public CategoriesController(ICategoryRepository repo)
         {
-            _db = db;
+            _repo = repo;
 
         }
+
+
+
+
+        //private readonly AppDbContext _db;
+        //public CategoriesController(AppDbContext db)
+        //{
+        //    _db = db;
+
+        //}
 
 
         [HttpGet]
         public IActionResult Index()
         {
             //Entity Framework Approach           
-            IEnumerable<Category> categories = _db.Categories.ToList();
+            IEnumerable<Category> categories = _repo.GetAll();
+            //IEnumerable<Category> categories = _db.Categories.ToList();
             return View(categories);
         }
 
@@ -35,8 +47,10 @@ namespace Second_ASP_EF_MVC.Controllers
         {
             if (ModelState.IsValid)
             {
-                _db.Categories.Add(category);
-                _db.SaveChanges();
+                _repo.Add(category);
+                _repo.Save();
+                //_db.Categories.Add(category);
+                //_db.SaveChanges();
                 return RedirectToAction("Index");
             }   
             return View(category);
@@ -45,7 +59,8 @@ namespace Second_ASP_EF_MVC.Controllers
         [HttpGet]
         public IActionResult Edit(string uid)
         {
-            var category = _db.Categories.FirstOrDefault(e=>e.UID == uid);
+            var category = _repo.GetByUId(uid);
+            //var category = _db.Categories.FirstOrDefault(e=>e.UID == uid);
             if (category == null)
             {
                 return NotFound();
@@ -62,8 +77,11 @@ namespace Second_ASP_EF_MVC.Controllers
                 if(category.UID ==null)
                     category.UID = Guid.NewGuid().ToString();
 
-                _db.Categories.Update(category);
-                _db.SaveChanges();
+                _repo.Update(category);
+                _repo.Save();
+
+                //_db.Categories.Update(category);
+                //_db.SaveChanges();
                 return RedirectToAction("Index");
             }
             return View(category);
@@ -72,7 +90,8 @@ namespace Second_ASP_EF_MVC.Controllers
         [HttpGet]
         public IActionResult Delete(string uid)
         {
-            var category = _db.Categories.FirstOrDefault(e => e.UID == uid);
+            var category = _repo.GetByUId(uid);
+            //var category = _db.Categories.FirstOrDefault(e => e.UID == uid);
             if (category == null)
             {
                 return NotFound();
@@ -84,13 +103,19 @@ namespace Second_ASP_EF_MVC.Controllers
         [HttpPost]
         public IActionResult Delete(Category category)
         {
-            if (ModelState.IsValid)
-            {
-                _db.Categories.Remove(category);
-                _db.SaveChanges();
+            var oldCate = _repo.GetByUId(category.UID);
+            //var oldCate= _db.Categories.FirstOrDefault(c => c. UID==category.UID);
+            if (oldCate == null) {
+                return NotFound();
+                }
+          
+            _repo.Delete(oldCate);
+            _repo.Save();
+                //_db.Categories.Remove(oldCate);
+                //_db.SaveChanges();
                 return RedirectToAction("Index");
-            }
-            return View(category);
+            
+           
         }
 
 

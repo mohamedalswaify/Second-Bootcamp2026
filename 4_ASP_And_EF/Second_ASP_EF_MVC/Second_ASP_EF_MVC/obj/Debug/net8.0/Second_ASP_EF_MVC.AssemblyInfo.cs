@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Second_ASP_EF_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+643cb57dc6ef68a4228c7b29a72e959154499a60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b60361a65e4ea9ef7911969f9e0057653e80bf5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Second_ASP_EF_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Second_ASP_EF_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
