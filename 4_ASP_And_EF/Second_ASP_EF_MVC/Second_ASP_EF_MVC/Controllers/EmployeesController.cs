@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Second_ASP_EF_MVC.Data;
 using Second_ASP_EF_MVC.Models;
 using Second_ASP_EF_MVC.Repositories;
+using Second_ASP_EF_MVC.Repositories.Base;
 
 namespace Second_ASP_EF_MVC.Controllers
 {
@@ -18,17 +19,24 @@ namespace Second_ASP_EF_MVC.Controllers
 
         //}
 
+        private readonly IUnitOfWork _unitOfWork;
 
-       
-        private readonly IEmployeeRepository _employeeRepo;
-        private readonly IDepartmentRepository _departmentRepo;
-
-        public EmployeesController(IEmployeeRepository employeeRepo, IDepartmentRepository departmentRepo)
+        public EmployeesController(IUnitOfWork unitOfWork)
         {
-            _employeeRepo = employeeRepo;
-            _departmentRepo = departmentRepo;
+            _unitOfWork = unitOfWork;
             
         }
+
+
+        //private readonly IEmployeeRepository _employeeRepo;
+        //private readonly IDepartmentRepository _departmentRepo;
+
+        //public EmployeesController(IEmployeeRepository employeeRepo, IDepartmentRepository departmentRepo)
+        //{
+        //    _employeeRepo = employeeRepo;
+        //    _departmentRepo = departmentRepo;
+            
+        //}
 
 
 
@@ -36,7 +44,7 @@ namespace Second_ASP_EF_MVC.Controllers
         {
             //Entity Framework Approach           
             //IEnumerable<Employee> employees = _db.Employees.Include(e=>e.Department).ToList();
-            IEnumerable<Employee> employees = _employeeRepo.GetAllEmps();
+            IEnumerable<Employee> employees = _unitOfWork.EmployeeRepo.GetAllEmps();
             return View(employees);
         }
 
@@ -44,7 +52,7 @@ namespace Second_ASP_EF_MVC.Controllers
         public IActionResult Create()
         {
             // IEnumerable<Department> departmentList = _db.Departments.ToList();
-            IEnumerable<Department> departmentList = _departmentRepo.GetAll();
+            IEnumerable<Department> departmentList = _unitOfWork.DepartmentRepo.GetAll();
 
             SelectList listItems = new SelectList(departmentList, "Id", "Name");
             ViewBag.DepartmentList = listItems;
@@ -56,8 +64,10 @@ namespace Second_ASP_EF_MVC.Controllers
         {
             if (ModelState.IsValid)
             {
-                _employeeRepo.Add(employee);
-                _employeeRepo.Save();
+                _unitOfWork.EmployeeRepo.Add(employee);
+                _unitOfWork.Save();
+
+            
 
                 //_db.Employees.Add(employee);
                 //_db.SaveChanges();
@@ -73,7 +83,7 @@ namespace Second_ASP_EF_MVC.Controllers
           
 
          //  var employee = _db.Employees.Include(e => e.Department).FirstOrDefault(e => e.Id == id);
-           var employee = _employeeRepo.GetById(id);
+           var employee = _unitOfWork.EmployeeRepo.GetById(id);
 
             if (employee == null)
             {
@@ -87,8 +97,11 @@ namespace Second_ASP_EF_MVC.Controllers
         {
             if (ModelState.IsValid)
             {
-                _employeeRepo.Update(employee);
-                _employeeRepo.Save();
+                _unitOfWork.EmployeeRepo.Update(employee);
+                _unitOfWork.Save();
+
+                //_employeeRepo.Update(employee);
+                //_employeeRepo.Save();
 
                 //_db.Employees.Update(employee);
                 //_db.SaveChanges();
@@ -108,8 +121,12 @@ namespace Second_ASP_EF_MVC.Controllers
         {
             if (ModelState.IsValid)
             {
-                _employeeRepo.Delete(employee);
-                _employeeRepo.Save();
+                _unitOfWork.EmployeeRepo.Delete(
+                    employee);
+                _unitOfWork.Save();
+
+                //_employeeRepo.Delete(employee);
+                //_employeeRepo.Save();
 
                 //_db.Employees.Remove(employee);
                 //_db.SaveChanges();
