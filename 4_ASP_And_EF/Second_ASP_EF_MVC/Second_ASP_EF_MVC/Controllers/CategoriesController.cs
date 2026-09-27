@@ -2,11 +2,23 @@
 using Second_ASP_EF_MVC.Data;
 using Second_ASP_EF_MVC.Models;
 using Second_ASP_EF_MVC.Repositories;
+using Second_ASP_EF_MVC.Repositories.Base;
 
 namespace Second_ASP_EF_MVC.Controllers
 {
     public class CategoriesController : Controller
     {
+
+        //private readonly IRepository<Category> _repo;
+
+
+        //public CategoriesController(IRepository<Category> repo)
+        //{
+        //    _repo = repo;
+
+
+        //}
+
 
         private readonly ICategoryRepository _repo;
         public CategoriesController(ICategoryRepository repo)

@@ -3,9 +3,11 @@ using Second_ASP_EF_MVC.Repositories.Base;
 
 namespace Second_ASP_EF_MVC.Repositories
 {
-    public interface ICategoryRepository : IRepository<Category>
+    public interface IEmployeeRepository :IRepository<Employee>
     {
-        Category? GetByUId(string uid);
+
+
+        IEnumerable<Employee> GetAllEmps();
 
     }
 }

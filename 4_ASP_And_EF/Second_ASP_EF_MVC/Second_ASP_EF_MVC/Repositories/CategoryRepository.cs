@@ -1,39 +1,19 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Second_ASP_EF_MVC.Data;
 using Second_ASP_EF_MVC.Models;
+using Second_ASP_EF_MVC.Repositories.Base;
 
 namespace Second_ASP_EF_MVC.Repositories
 {
-    public class CategoryRepository : ICategoryRepository
+    public class CategoryRepository : Repository<Category>, ICategoryRepository 
     {
 
         private readonly AppDbContext _db;
         private readonly DbSet<Category> _dbSet;
-        public CategoryRepository(AppDbContext db)
+        public CategoryRepository(AppDbContext db) :base(db) 
         {
             _db = db;
             _dbSet = _db.Set<Category>();
-        }
-
-
-        public void Add(Category category)
-        {
-            _dbSet.Add(category);
-        }
-
-        public void Delete(Category category)
-        {
-            _dbSet.Remove(category);
-        }
-
-        public IEnumerable<Category> GetAll()
-        {
-            return _dbSet.ToList();
-        }
-
-        public Category? GetById(int id)
-        {
-            return _dbSet.Find(id);
         }
 
         public Category? GetByUId(string uid)
@@ -41,14 +21,6 @@ namespace Second_ASP_EF_MVC.Repositories
             return _dbSet.FirstOrDefault(e=>e.UID == uid);  
         }
 
-        public void Save()
-        {
-            _db.SaveChanges();
-        }
-
-        public void Update(Category category)
-        {
-            _dbSet.Update(category);
-        }
+      
     }
 }

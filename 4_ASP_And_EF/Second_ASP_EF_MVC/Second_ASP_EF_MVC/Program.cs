@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Second_ASP_EF_MVC.Data;
 using Second_ASP_EF_MVC.Repositories;
+using Second_ASP_EF_MVC.Repositories.Base;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,11 @@ options.UseSqlServer(conectionString));
 
 
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+
 
 
 
