@@ -1,4 +1,5 @@
-﻿@model IEnumerable<Employee>
+﻿@using Second_ASP_EF_MVC.Dtos.EmployeesDto
+@model IEnumerable<EmployeeDto>
 @{
     ViewData["Title"] = "Employee Page";
 }
@@ -28,7 +29,7 @@
                     <td>@employee.Id</td>
                     <td>@employee.Name</td>
                     <td>@employee.Description</td>
-                    <td>@employee.Department?.Name</td>
+                    <td>@employee.DepartmentName</td>
                     <td>
                         <!-- Details Popup -->
                         <button type="button"
@@ -103,7 +104,7 @@
 
                     <p>
                         <strong>Department:</strong>
-                        @employee.Department?.Name
+                        @employee.DepartmentName
                     </p>
 
                 </div>

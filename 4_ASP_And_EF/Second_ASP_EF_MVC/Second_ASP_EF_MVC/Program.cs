@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Second_ASP_EF_MVC.Data;
 using Second_ASP_EF_MVC.Repositories;
 using Second_ASP_EF_MVC.Repositories.Base;
+using Second_ASP_EF_MVC.Services;
+using Second_ASP_EF_MVC.Services.Base;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,7 +24,7 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
-
+builder.Services.AddScoped<IEmployeeService, EmployeeService>();
 
 
 var app = builder.Build();
