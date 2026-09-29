@@ -1,0 +1,6 @@
+@Second_ASP_EF.API_HostAddress = http://localhost:5212
+
+GET {{Second_ASP_EF.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

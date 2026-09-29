@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37614.0 d17.14
+VisualStudioVersion = 17.14.37614.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second_ASP_EF_MVC", "Second_ASP_EF_MVC\Second_ASP_EF_MVC.csproj", "{8E9832EA-73F0-4A61-AC13-785017BEE6F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second_ASP_EF.MVC", "Second_ASP_EF_MVC\Second_ASP_EF.MVC.csproj", "{8E9832EA-73F0-4A61-AC13-785017BEE6F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second_ASP_EF_MVC.Domain", "Second_ASP_EF_MVC.Domain\Second_ASP_EF_MVC.Domain.csproj", "{4F2B2332-4DE8-463E-8F9A-BA0C96C3F195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second_ASP_EF_MVC.Infrastructure", "Second_ASP_EF_MVC.Infrastructure\Second_ASP_EF_MVC.Infrastructure.csproj", "{0EE96FBE-9612-45EA-BE2F-23754A85D037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second_ASP_EF_MVC.Application", "Second_ASP_EF_MVC.Application\Second_ASP_EF_MVC.Application.csproj", "{4F0BD0CD-DCEE-4469-87E0-87D514CE756D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second_ASP_EF.API", "Second_ASP_EF.API\Second_ASP_EF.API.csproj", "{55ACAC10-20BC-4CA4-9D5D-EF7C0ED4FF1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{8E9832EA-73F0-4A61-AC13-785017BEE6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E9832EA-73F0-4A61-AC13-785017BEE6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E9832EA-73F0-4A61-AC13-785017BEE6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2B2332-4DE8-463E-8F9A-BA0C96C3F195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2B2332-4DE8-463E-8F9A-BA0C96C3F195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2B2332-4DE8-463E-8F9A-BA0C96C3F195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2B2332-4DE8-463E-8F9A-BA0C96C3F195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE96FBE-9612-45EA-BE2F-23754A85D037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE96FBE-9612-45EA-BE2F-23754A85D037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE96FBE-9612-45EA-BE2F-23754A85D037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE96FBE-9612-45EA-BE2F-23754A85D037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0BD0CD-DCEE-4469-87E0-87D514CE756D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0BD0CD-DCEE-4469-87E0-87D514CE756D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0BD0CD-DCEE-4469-87E0-87D514CE756D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0BD0CD-DCEE-4469-87E0-87D514CE756D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55ACAC10-20BC-4CA4-9D5D-EF7C0ED4FF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55ACAC10-20BC-4CA4-9D5D-EF7C0ED4FF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55ACAC10-20BC-4CA4-9D5D-EF7C0ED4FF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55ACAC10-20BC-4CA4-9D5D-EF7C0ED4FF1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

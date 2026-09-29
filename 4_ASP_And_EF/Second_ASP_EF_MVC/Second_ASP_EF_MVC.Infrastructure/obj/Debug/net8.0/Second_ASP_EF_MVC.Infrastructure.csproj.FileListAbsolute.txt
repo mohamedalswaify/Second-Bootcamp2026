@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.deps.json
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Second_ASP_EF_MVC.Domain.dll
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\bin\Debug\net8.0\Second_ASP_EF_MVC.Domain.pdb
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.sourcelink.json
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Second_A.7C6A53DC.Up2Date
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\refint\Second_ASP_EF_MVC.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\Second_ASP_EF_MVC.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Infrastructure\obj\Debug\net8.0\ref\Second_ASP_EF_MVC.Infrastructure.dll

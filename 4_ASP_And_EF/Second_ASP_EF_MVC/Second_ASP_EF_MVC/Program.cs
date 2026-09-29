@@ -1,9 +1,10 @@
 using Microsoft.EntityFrameworkCore;
-using Second_ASP_EF_MVC.Data;
-using Second_ASP_EF_MVC.Repositories;
-using Second_ASP_EF_MVC.Repositories.Base;
-using Second_ASP_EF_MVC.Services;
-using Second_ASP_EF_MVC.Services.Base;
+using Second_ASP_EF_MVC.Application.Services;
+using Second_ASP_EF_MVC.Application.Services.Base;
+using Second_ASP_EF_MVC.Infrastructure.Data;
+using Second_ASP_EF_MVC.Infrastructure.Repositories;
+using Second_ASP_EF_MVC.Infrastructure.Repositories.Base;
+
 
 var builder = WebApplication.CreateBuilder(args);
 

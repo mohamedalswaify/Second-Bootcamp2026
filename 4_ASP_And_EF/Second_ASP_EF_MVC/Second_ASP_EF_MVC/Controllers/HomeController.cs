@@ -1,8 +1,10 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Second_ASP_EF_MVC.Models;
 
-namespace Second_ASP_EF_MVC.Controllers
+using Second_ASP_EF_MVC.Domain.Models;
+
+
+namespace Second_ASP_EF.MVC.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,10 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Second_ASP_EF_MVC.Data;
-using Second_ASP_EF_MVC.Models;
-using Second_ASP_EF_MVC.Repositories;
-using Second_ASP_EF_MVC.Repositories.Base;
+using Second_ASP_EF_MVC.Domain.Models;
+using Second_ASP_EF_MVC.Infrastructure.Repositories;
 
-namespace Second_ASP_EF_MVC.Controllers
+
+namespace Second_ASP_EF.MVC.Controllers
 {
     public class CategoriesController : Controller
     {

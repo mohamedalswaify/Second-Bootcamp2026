@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Second_ASP_EF_MVC.Data;
-using Second_ASP_EF_MVC.Dtos;
-using Second_ASP_EF_MVC.Models;
-using System.Linq;
+using Second_ASP_EF_MVC.Application.Dtos;
+using Second_ASP_EF_MVC.Domain.Models;
+using Second_ASP_EF_MVC.Infrastructure.Data;
 
-namespace Second_ASP_EF_MVC.Controllers
+
+namespace Second_ASP_EF.MVC.Controllers
 {
     public class UsersController : Controller
     {

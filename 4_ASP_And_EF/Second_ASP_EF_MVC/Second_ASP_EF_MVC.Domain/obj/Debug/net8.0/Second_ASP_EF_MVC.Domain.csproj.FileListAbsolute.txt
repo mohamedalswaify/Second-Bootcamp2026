@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\bin\Debug\net8.0\Second_ASP_EF_MVC.Domain.deps.json
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\bin\Debug\net8.0\Second_ASP_EF_MVC.Domain.dll
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\bin\Debug\net8.0\Second_ASP_EF_MVC.Domain.pdb
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\obj\Debug\net8.0\Second_ASP_EF_MVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\obj\Debug\net8.0\Second_ASP_EF_MVC.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\obj\Debug\net8.0\Second_ASP_EF_MVC.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\obj\Debug\net8.0\Second_ASP_EF_MVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\obj\Debug\net8.0\Second_ASP_EF_MVC.Domain.sourcelink.json
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\obj\Debug\net8.0\Second_ASP_EF_MVC.Domain.dll
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\obj\Debug\net8.0\refint\Second_ASP_EF_MVC.Domain.dll
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\obj\Debug\net8.0\Second_ASP_EF_MVC.Domain.pdb
+C:\Users\LENOVO\Desktop\Scond Bootcamp\4_ASP_And_EF\Second_ASP_EF_MVC\Second_ASP_EF_MVC.Domain\obj\Debug\net8.0\ref\Second_ASP_EF_MVC.Domain.dll
