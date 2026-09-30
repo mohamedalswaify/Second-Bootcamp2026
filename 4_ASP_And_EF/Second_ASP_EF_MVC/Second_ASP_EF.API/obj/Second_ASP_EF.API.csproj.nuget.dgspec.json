@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\Second_ASP_EF.API.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\Second_ASP_EF.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\Second_ASP_EF.API.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\Second_ASP_EF.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\Second_ASP_EF.API.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\Second_ASP_EF.API.csproj",
         "projectName": "Second_ASP_EF.API",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\Second_ASP_EF.API.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\Second_ASP_EF.API.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj",
         "projectName": "Second_ASP_EF_MVC.Application",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\Second_ASP_EF_MVC.Application.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,11 +112,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj"
               },
-              "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj",
         "projectName": "Second_ASP_EF_MVC.Domain",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -222,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj",
         "projectName": "Second_ASP_EF_MVC.Infrastructure",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,8 +251,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj": {
-                "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj"
+              "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj"
               }
             }
           }

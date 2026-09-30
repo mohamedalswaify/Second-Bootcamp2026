@@ -2704,11 +2704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj",
       "projectName": "Second_ASP_EF_MVC.Infrastructure",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\Second_ASP_EF_MVC.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2730,8 +2730,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj"
+            "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\Desktop\\Scond_Bootcamp\\4_ASP_And_EF\\Second_ASP_EF_MVC\\Second_ASP_EF_MVC.Domain\\Second_ASP_EF_MVC.Domain.csproj"
             }
           }
         }
